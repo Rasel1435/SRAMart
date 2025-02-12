@@ -4,7 +4,7 @@ This is my e-commerce project
 # Project Setup
 
 ## 1. Setup Project
-- Create a new project `ecomprj`
+- Create a new project `SRAMart`
 - Create a new app (`core`)
 - Install apps in `Settings.py`
 - Configure Templates
