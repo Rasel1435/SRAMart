@@ -1,7 +1,7 @@
 # SRAMart
 This is my e-commerce project
 
-# Project Setup
+# SRAMart E-commerce Backend Logic and Steps
 
 ## 1. Setup Project
 - Create a new project `SRAMart`
